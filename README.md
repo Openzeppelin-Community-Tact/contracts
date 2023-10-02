@@ -37,7 +37,7 @@ Open-source is all about camaraderie and collective brilliance. If you're lookin
 
 ### 🔗 Useful Links:
 
-- [Telegram Group](https://t.me/joinchat/your_link_here) 📱
+- [Telegram Group](https://t.me/hack_ton_berfest_2023) 📱
 - Video tutorials 🎥: [[RU](https://www.youtube.com/playlist?list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92)], [[EN](https://www.youtube.com/channel/UCaiBZhZWqYeeQMUeCev18ng)]
 
 ---
